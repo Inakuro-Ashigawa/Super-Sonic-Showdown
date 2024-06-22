@@ -72,6 +72,6 @@ function update(elapsed:Float){
     __timer += elapsed;
     if (float){
         
-        dad.y = dad.y + 30 + (Math.cos(__timer));
+        dad.y = dad.y + (Math.cos(__timer));
     }
 }
