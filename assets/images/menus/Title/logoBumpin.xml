@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="logoBUMPsonic.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Logo Bop0000" x="13" y="13" width="1609" height="1609"/>
+	<SubTexture name="Logo Bop0001" x="1635" y="13" width="1609" height="1609"/>
+	<SubTexture name="Logo Bop0002" x="1635" y="13" width="1609" height="1609"/>
+	<SubTexture name="Logo Bop0003" x="3257" y="13" width="1609" height="1609"/>
+	<SubTexture name="Logo Bop0004" x="3257" y="13" width="1609" height="1609"/>
+	<SubTexture name="Logo Bop0005" x="4879" y="13" width="1609" height="1609"/>
+	<SubTexture name="Logo Bop0006" x="4879" y="13" width="1609" height="1609"/>
+	<SubTexture name="Logo Bop0007" x="6501" y="13" width="1609" height="1609"/>
+	<SubTexture name="Logo Bop0008" x="6501" y="13" width="1609" height="1609"/>
+	<SubTexture name="Logo Bop0009" x="13" y="1635" width="1609" height="1609"/>
+	<SubTexture name="Logo Bop0010" x="13" y="1635" width="1609" height="1609"/>
+	<SubTexture name="Logo Bop0011" x="13" y="1635" width="1609" height="1609"/>
+	<SubTexture name="Logo Bop0012" x="13" y="1635" width="1609" height="1609"/>
+	<SubTexture name="Logo Bop0013" x="13" y="1635" width="1609" height="1609"/>
+	<SubTexture name="Logo Bop0014" x="13" y="1635" width="1609" height="1609"/>
+</TextureAtlas>

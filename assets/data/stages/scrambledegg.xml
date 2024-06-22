@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/SEgg/" zoom=".6">
+	<sprite x="-200" scrolly="0.6" sprite="lights" scrollx="0.6" name="lights"/>
+	<sprite scrolly="0.8" name="back" sprite="back" scrollx="0.8"/>
+	<sprite name="floor" sprite="floor" y="1164"/>
+	<gf x="1200.4" y="1118.45"/>
+	<bf x="1820.4" y="1128.45"/>
+	<dad x="920.4" y="1490"/>
+	<combo x="1811.5" y="1360"/>
+</stage>

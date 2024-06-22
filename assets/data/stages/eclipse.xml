@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/" zoom=".7">
+	<sprite sprite="terios" name="terios"/>
+	<gf x="2008.95" y="1203.15"/>
+	<dad x="2392.05" y="1077.05"/>
+	<bf x="873.1" y="839.5"/>
+	<combo x="947.5" y="654"/>
+</stage>

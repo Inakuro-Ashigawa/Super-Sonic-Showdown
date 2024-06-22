@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menu_.png">
+<SubTexture name="bios basic0000" x="0" y="0" width="1394" height="249" frameX="0" frameY="0" frameWidth="1440" frameHeight="274" />
+<SubTexture name="bios white0000" x="0" y="249" width="1394" height="249" frameX="0" frameY="0" frameWidth="1440" frameHeight="274" />
+<SubTexture name="credits basic0000" x="0" y="498" width="1394" height="249" frameX="0" frameY="0" frameWidth="1440" frameHeight="274" />
+<SubTexture name="credits white0000" x="0" y="747" width="1394" height="249" frameX="0" frameY="0" frameWidth="1440" frameHeight="274" />
+<SubTexture name="freeplay basic0000" x="0" y="996" width="1394" height="249" frameX="0" frameY="0" frameWidth="1440" frameHeight="274" />
+<SubTexture name="freeplay white0000" x="1394" y="0" width="1394" height="249" frameX="0" frameY="0" frameWidth="1440" frameHeight="274" />
+<SubTexture name="options basic0000" x="1394" y="249" width="1394" height="249" frameX="-42" frameY="-10" frameWidth="1440" frameHeight="274" />
+<SubTexture name="options white0000" x="1394" y="498" width="1394" height="249" frameX="0" frameY="0" frameWidth="1440" frameHeight="274" />
+<SubTexture name="story basic0000" x="1394" y="747" width="1394" height="249" frameX="0" frameY="0" frameWidth="1440" frameHeight="274" />
+<SubTexture name="story white0000" x="1394" y="996" width="1394" height="249" frameX="0" frameY="0" frameWidth="1440" frameHeight="274" />
+</TextureAtlas>

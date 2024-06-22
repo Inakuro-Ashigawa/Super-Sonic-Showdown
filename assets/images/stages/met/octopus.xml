@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="octopus.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="octopus0000" x="5" y="5" width="451" height="369" frameX="0" frameY="-26" frameWidth="451" frameHeight="396"/>
+	<SubTexture name="octopus0001" x="5" y="5" width="451" height="369" frameX="0" frameY="-26" frameWidth="451" frameHeight="396"/>
+	<SubTexture name="octopus0002" x="461" y="5" width="433" height="392" frameX="-9" frameY="-4" frameWidth="451" frameHeight="396"/>
+	<SubTexture name="octopus0003" x="461" y="5" width="433" height="392" frameX="-9" frameY="-4" frameWidth="451" frameHeight="396"/>
+	<SubTexture name="octopus0004" x="5" y="402" width="416" height="396" frameX="-17" frameY="0" frameWidth="451" frameHeight="396"/>
+	<SubTexture name="octopus0005" x="5" y="402" width="416" height="396" frameX="-17" frameY="0" frameWidth="451" frameHeight="396"/>
+	<SubTexture name="octopus0006" x="426" y="402" width="418" height="393" frameX="-16" frameY="-2" frameWidth="451" frameHeight="396"/>
+	<SubTexture name="octopus0007" x="426" y="402" width="418" height="393" frameX="-16" frameY="-2" frameWidth="451" frameHeight="396"/>
+	<SubTexture name="octopus0008" x="426" y="402" width="418" height="393" frameX="-16" frameY="-2" frameWidth="451" frameHeight="396"/>
+	<SubTexture name="octopus0009" x="426" y="402" width="418" height="393" frameX="-16" frameY="-2" frameWidth="451" frameHeight="396"/>
+	<SubTexture name="octopus0010" x="426" y="402" width="418" height="393" frameX="-16" frameY="-2" frameWidth="451" frameHeight="396"/>
+	<SubTexture name="octopus0011" x="426" y="402" width="418" height="393" frameX="-16" frameY="-2" frameWidth="451" frameHeight="396"/>
+	<SubTexture name="octopus0012" x="426" y="402" width="418" height="393" frameX="-16" frameY="-2" frameWidth="451" frameHeight="396"/>
+	<SubTexture name="octopus0013" x="426" y="402" width="418" height="393" frameX="-16" frameY="-2" frameWidth="451" frameHeight="396"/>
+</TextureAtlas>

@@ -1,0 +1,1 @@
+function onNoteHit(event) if (event.noteType == "hey!") boyfriend.playAnim("hey");

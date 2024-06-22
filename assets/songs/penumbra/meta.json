@@ -1,0 +1,16 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 197,
+	"difficulties": [
+		"hard"
+	],
+	"needsVoices": true,
+	"parsedColor": -7631989,
+	"displayName": "penumbra",
+	"icon": "terios",
+	"name": "penumbra",
+	"color": "#8B8B8B"
+}

@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SonAI_exe.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SAI IDLE0000" x="4" y="4" width="590" height="640" frameX="0" frameY="-29" frameWidth="590" frameHeight="670"/>
+	<SubTexture name="SAI IDLE0001" x="4" y="4" width="590" height="640" frameX="0" frameY="-29" frameWidth="590" frameHeight="670"/>
+	<SubTexture name="SAI IDLE0002" x="598" y="4" width="580" height="664" frameX="-2" frameY="-5" frameWidth="590" frameHeight="670"/>
+	<SubTexture name="SAI IDLE0003" x="598" y="4" width="580" height="664" frameX="-2" frameY="-5" frameWidth="590" frameHeight="670"/>
+	<SubTexture name="SAI IDLE0004" x="1182" y="4" width="563" height="670" frameX="-2" frameY="0" frameWidth="590" frameHeight="670"/>
+	<SubTexture name="SAI IDLE0005" x="1182" y="4" width="563" height="670" frameX="-2" frameY="0" frameWidth="590" frameHeight="670"/>
+	<SubTexture name="SAI IDLE0006" x="1749" y="4" width="568" height="669" frameX="-2" frameY="0" frameWidth="590" frameHeight="670"/>
+	<SubTexture name="SAI IDLE0007" x="1749" y="4" width="568" height="669" frameX="-2" frameY="0" frameWidth="590" frameHeight="670"/>
+	<SubTexture name="SAI IDLE0008" x="1749" y="4" width="568" height="669" frameX="-2" frameY="0" frameWidth="590" frameHeight="670"/>
+	<SubTexture name="SAI IDLE0009" x="2321" y="4" width="570" height="669" frameX="-2" frameY="0" frameWidth="590" frameHeight="670"/>
+	<SubTexture name="SAI IDLE0010" x="2895" y="4" width="570" height="669" frameX="-2" frameY="0" frameWidth="590" frameHeight="670"/>
+	<SubTexture name="SAI IDLE0011" x="2895" y="4" width="570" height="669" frameX="-2" frameY="0" frameWidth="590" frameHeight="670"/>
+	<SubTexture name="SAI IDLE0012" x="3469" y="4" width="576" height="669" frameX="-2" frameY="0" frameWidth="590" frameHeight="670"/>
+	<SubTexture name="SAI IDLE0013" x="3469" y="4" width="576" height="669" frameX="-2" frameY="0" frameWidth="590" frameHeight="670"/>
+	<SubTexture name="SAI LEFT0000" x="4" y="678" width="609" height="527" frameX="-13" frameY="0" frameWidth="635" frameHeight="527"/>
+	<SubTexture name="SAI LEFT0001" x="4" y="678" width="609" height="527" frameX="-13" frameY="0" frameWidth="635" frameHeight="527"/>
+	<SubTexture name="SAI LEFT0002" x="617" y="678" width="615" height="527" frameX="-5" frameY="0" frameWidth="635" frameHeight="527"/>
+	<SubTexture name="SAI LEFT0003" x="617" y="678" width="615" height="527" frameX="-5" frameY="0" frameWidth="635" frameHeight="527"/>
+	<SubTexture name="SAI LEFT0004" x="1236" y="678" width="620" height="525" frameX="0" frameY="-2" frameWidth="635" frameHeight="527"/>
+	<SubTexture name="SAI LEFT0005" x="1236" y="678" width="620" height="525" frameX="0" frameY="-2" frameWidth="635" frameHeight="527"/>
+	<SubTexture name="SAI LEFT0006" x="1860" y="678" width="596" height="510" frameX="-39" frameY="-16" frameWidth="635" frameHeight="527"/>
+	<SubTexture name="SAI LEFT0007" x="1860" y="678" width="596" height="510" frameX="-39" frameY="-16" frameWidth="635" frameHeight="527"/>
+	<SubTexture name="SAI LEFT0008" x="2460" y="678" width="503" height="522" frameX="-120" frameY="-5" frameWidth="635" frameHeight="527"/>
+	<SubTexture name="SAI LEFT0009" x="2460" y="678" width="503" height="522" frameX="-120" frameY="-5" frameWidth="635" frameHeight="527"/>
+	<SubTexture name="SAI LEFT0010" x="2460" y="678" width="503" height="522" frameX="-120" frameY="-5" frameWidth="635" frameHeight="527"/>
+	<SubTexture name="SAI LEFT0011" x="2460" y="678" width="503" height="522" frameX="-120" frameY="-5" frameWidth="635" frameHeight="527"/>
+	<SubTexture name="SAI LEFT0012" x="2460" y="678" width="503" height="522" frameX="-120" frameY="-5" frameWidth="635" frameHeight="527"/>
+	<SubTexture name="SAI LEFT0013" x="2460" y="678" width="503" height="522" frameX="-120" frameY="-5" frameWidth="635" frameHeight="527"/>
+	<SubTexture name="SAI LEFT0014" x="2460" y="678" width="503" height="522" frameX="-120" frameY="-5" frameWidth="635" frameHeight="527"/>
+	<SubTexture name="SAI LEFT0015" x="2460" y="678" width="503" height="522" frameX="-120" frameY="-5" frameWidth="635" frameHeight="527"/>
+	<SubTexture name="SAI RIGHT0000" x="2967" y="678" width="913" height="679" frameX="-1" frameY="0" frameWidth="916" frameHeight="679"/>
+	<SubTexture name="SAI RIGHT0001" x="2967" y="678" width="913" height="679" frameX="-1" frameY="0" frameWidth="916" frameHeight="679"/>
+	<SubTexture name="SAI RIGHT0002" x="4" y="1361" width="914" height="679" frameX="-1" frameY="0" frameWidth="916" frameHeight="679"/>
+	<SubTexture name="SAI RIGHT0003" x="4" y="1361" width="914" height="679" frameX="-1" frameY="0" frameWidth="916" frameHeight="679"/>
+	<SubTexture name="SAI RIGHT0004" x="922" y="1361" width="915" height="675" frameX="-1" frameY="-4" frameWidth="916" frameHeight="679"/>
+	<SubTexture name="SAI RIGHT0005" x="922" y="1361" width="915" height="675" frameX="-1" frameY="-4" frameWidth="916" frameHeight="679"/>
+	<SubTexture name="SAI RIGHT0006" x="1841" y="1361" width="871" height="667" frameX="-1" frameY="-12" frameWidth="916" frameHeight="679"/>
+	<SubTexture name="SAI RIGHT0007" x="1841" y="1361" width="871" height="667" frameX="-1" frameY="-12" frameWidth="916" frameHeight="679"/>
+	<SubTexture name="SAI RIGHT0008" x="2716" y="1361" width="834" height="656" frameX="0" frameY="-23" frameWidth="916" frameHeight="679"/>
+	<SubTexture name="SAI RIGHT0009" x="2716" y="1361" width="834" height="656" frameX="0" frameY="-23" frameWidth="916" frameHeight="679"/>
+	<SubTexture name="SAI RIGHT0010" x="2716" y="1361" width="834" height="656" frameX="0" frameY="-23" frameWidth="916" frameHeight="679"/>
+	<SubTexture name="SAI RIGHT0011" x="2716" y="1361" width="834" height="656" frameX="0" frameY="-23" frameWidth="916" frameHeight="679"/>
+	<SubTexture name="SAI RIGHT0012" x="2716" y="1361" width="834" height="656" frameX="0" frameY="-23" frameWidth="916" frameHeight="679"/>
+	<SubTexture name="SAI RIGHT0013" x="2716" y="1361" width="834" height="656" frameX="0" frameY="-23" frameWidth="916" frameHeight="679"/>
+	<SubTexture name="SAI RIGHT0014" x="2716" y="1361" width="834" height="656" frameX="0" frameY="-23" frameWidth="916" frameHeight="679"/>
+	<SubTexture name="SAI RIGHT0015" x="2716" y="1361" width="834" height="656" frameX="0" frameY="-23" frameWidth="916" frameHeight="679"/>
+	<SubTexture name="SAI UP0000" x="3554" y="1361" width="374" height="983" frameX="-14" frameY="-12" frameWidth="389" frameHeight="995"/>
+	<SubTexture name="SAI UP0001" x="3554" y="1361" width="374" height="983" frameX="-14" frameY="-12" frameWidth="389" frameHeight="995"/>
+	<SubTexture name="SAI UP0002" x="4" y="2348" width="373" height="995" frameX="-16" frameY="0" frameWidth="389" frameHeight="995"/>
+	<SubTexture name="SAI UP0003" x="4" y="2348" width="373" height="995" frameX="-16" frameY="0" frameWidth="389" frameHeight="995"/>
+	<SubTexture name="SAI UP0004" x="381" y="2348" width="377" height="990" frameX="-12" frameY="-5" frameWidth="389" frameHeight="995"/>
+	<SubTexture name="SAI UP0005" x="381" y="2348" width="377" height="990" frameX="-12" frameY="-5" frameWidth="389" frameHeight="995"/>
+	<SubTexture name="SAI UP0006" x="762" y="2348" width="381" height="955" frameX="-7" frameY="-40" frameWidth="389" frameHeight="995"/>
+	<SubTexture name="SAI UP0007" x="762" y="2348" width="381" height="955" frameX="-7" frameY="-40" frameWidth="389" frameHeight="995"/>
+	<SubTexture name="SAI UP0008" x="1147" y="2348" width="387" height="931" frameX="0" frameY="-64" frameWidth="389" frameHeight="995"/>
+	<SubTexture name="SAI UP0009" x="1147" y="2348" width="387" height="931" frameX="0" frameY="-64" frameWidth="389" frameHeight="995"/>
+	<SubTexture name="SAI UP0010" x="1147" y="2348" width="387" height="931" frameX="0" frameY="-64" frameWidth="389" frameHeight="995"/>
+	<SubTexture name="SAI UP0011" x="1147" y="2348" width="387" height="931" frameX="0" frameY="-64" frameWidth="389" frameHeight="995"/>
+	<SubTexture name="SAI UP0012" x="1147" y="2348" width="387" height="931" frameX="0" frameY="-64" frameWidth="389" frameHeight="995"/>
+	<SubTexture name="SAI UP0013" x="1147" y="2348" width="387" height="931" frameX="0" frameY="-64" frameWidth="389" frameHeight="995"/>
+	<SubTexture name="SAI UP0014" x="1147" y="2348" width="387" height="931" frameX="0" frameY="-64" frameWidth="389" frameHeight="995"/>
+	<SubTexture name="SAI UP0015" x="1147" y="2348" width="387" height="931" frameX="0" frameY="-64" frameWidth="389" frameHeight="995"/>
+	<SubTexture name="SAI_DOWN0000" x="1538" y="2348" width="723" height="354" frameX="-3" frameY="-14" frameWidth="732" frameHeight="370"/>
+	<SubTexture name="SAI_DOWN0001" x="1538" y="2348" width="723" height="354" frameX="-3" frameY="-14" frameWidth="732" frameHeight="370"/>
+	<SubTexture name="SAI_DOWN0002" x="2265" y="2348" width="728" height="353" frameX="-1" frameY="-14" frameWidth="732" frameHeight="370"/>
+	<SubTexture name="SAI_DOWN0003" x="2265" y="2348" width="728" height="353" frameX="-1" frameY="-14" frameWidth="732" frameHeight="370"/>
+	<SubTexture name="SAI_DOWN0004" x="2997" y="2348" width="732" height="351" frameX="0" frameY="-16" frameWidth="732" frameHeight="370"/>
+	<SubTexture name="SAI_DOWN0005" x="2997" y="2348" width="732" height="351" frameX="0" frameY="-16" frameWidth="732" frameHeight="370"/>
+	<SubTexture name="SAI_DOWN0006" x="4" y="3347" width="716" height="360" frameX="-8" frameY="-9" frameWidth="732" frameHeight="370"/>
+	<SubTexture name="SAI_DOWN0007" x="4" y="3347" width="716" height="360" frameX="-8" frameY="-9" frameWidth="732" frameHeight="370"/>
+	<SubTexture name="SAI_DOWN0008" x="724" y="3347" width="694" height="370" frameX="-11" frameY="0" frameWidth="732" frameHeight="370"/>
+	<SubTexture name="SAI_DOWN0009" x="724" y="3347" width="694" height="370" frameX="-11" frameY="0" frameWidth="732" frameHeight="370"/>
+</TextureAtlas>

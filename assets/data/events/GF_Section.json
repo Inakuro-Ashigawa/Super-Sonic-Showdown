@@ -1,0 +1,19 @@
+{
+    "params": [
+        {
+            "name": "Turn On?",
+            "type": "Bool",
+            "defaultValue": true
+        },
+        {
+            "name": "Turn On? (Camera Target)",
+            "type": "Bool",
+            "defaultValue": true
+        },
+        {
+            "name": "Type",
+            "type": "DropDown('player', 'opponent')",
+            "defaultValue": "player"
+        }
+    ]
+}

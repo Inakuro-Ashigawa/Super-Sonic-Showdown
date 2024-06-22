@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="narcissus.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Metarex ass instance 10000" x="5" y="5" width="817" height="1349" frameX="0" frameY="0" frameWidth="835" frameHeight="1349"/>
+	<SubTexture name="Metarex ass instance 10001" x="5" y="5" width="817" height="1349" frameX="0" frameY="0" frameWidth="835" frameHeight="1349"/>
+	<SubTexture name="Metarex ass instance 10002" x="827" y="5" width="815" height="1349" frameX="-2" frameY="0" frameWidth="835" frameHeight="1349"/>
+	<SubTexture name="Metarex ass instance 10003" x="1647" y="5" width="832" height="1349" frameX="-2" frameY="0" frameWidth="835" frameHeight="1349"/>
+	<SubTexture name="Metarex ass instance 10004" x="2484" y="5" width="825" height="1349" frameX="-9" frameY="0" frameWidth="835" frameHeight="1349"/>
+	<SubTexture name="Metarex ass instance 10005" x="2484" y="5" width="825" height="1349" frameX="-9" frameY="0" frameWidth="835" frameHeight="1349"/>
+	<SubTexture name="Metarex ass instance 10006" x="3314" y="5" width="824" height="1349" frameX="-10" frameY="0" frameWidth="835" frameHeight="1349"/>
+	<SubTexture name="Metarex ass instance 10007" x="3314" y="5" width="824" height="1349" frameX="-10" frameY="0" frameWidth="835" frameHeight="1349"/>
+	<SubTexture name="Metarex ass instance 10008" x="4143" y="5" width="825" height="1349" frameX="-10" frameY="0" frameWidth="835" frameHeight="1349"/>
+	<SubTexture name="Metarex ass instance 10009" x="4143" y="5" width="825" height="1349" frameX="-10" frameY="0" frameWidth="835" frameHeight="1349"/>
+	<SubTexture name="Metarex ass instance 10010" x="4143" y="5" width="825" height="1349" frameX="-10" frameY="0" frameWidth="835" frameHeight="1349"/>
+	<SubTexture name="Metarex ass instance 10011" x="4973" y="5" width="825" height="1349" frameX="-10" frameY="0" frameWidth="835" frameHeight="1349"/>
+	<SubTexture name="Metarex ass instance 10012" x="5803" y="5" width="823" height="1349" frameX="-10" frameY="0" frameWidth="835" frameHeight="1349"/>
+	<SubTexture name="Metarex ass instance 10013" x="6631" y="5" width="823" height="1349" frameX="-10" frameY="0" frameWidth="835" frameHeight="1349"/>
+	<SubTexture name="Metarex ass instance 10014" x="6631" y="5" width="823" height="1349" frameX="-10" frameY="0" frameWidth="835" frameHeight="1349"/>
+	<SubTexture name="Metarex ass instance 10015" x="5" y="1359" width="811" height="1349" frameX="0" frameY="0" frameWidth="835" frameHeight="1349"/>
+	<SubTexture name="Metarex ass instance 10016" x="5" y="1359" width="811" height="1349" frameX="0" frameY="0" frameWidth="835" frameHeight="1349"/>
+	<SubTexture name="Metarex ass instance 10017" x="821" y="1359" width="809" height="1349" frameX="-2" frameY="0" frameWidth="835" frameHeight="1349"/>
+	<SubTexture name="Metarex ass instance 10018" x="1635" y="1359" width="829" height="1349" frameX="-2" frameY="0" frameWidth="835" frameHeight="1349"/>
+	<SubTexture name="Metarex ass instance 10019" x="2469" y="1359" width="822" height="1349" frameX="-9" frameY="0" frameWidth="835" frameHeight="1349"/>
+	<SubTexture name="Metarex ass instance 10020" x="2469" y="1359" width="822" height="1349" frameX="-9" frameY="0" frameWidth="835" frameHeight="1349"/>
+	<SubTexture name="Metarex ass instance 10021" x="3296" y="1359" width="823" height="1349" frameX="-10" frameY="0" frameWidth="835" frameHeight="1349"/>
+	<SubTexture name="Metarex ass instance 10022" x="3296" y="1359" width="823" height="1349" frameX="-10" frameY="0" frameWidth="835" frameHeight="1349"/>
+	<SubTexture name="Metarex ass instance 10023" x="4124" y="1359" width="825" height="1349" frameX="-10" frameY="0" frameWidth="835" frameHeight="1349"/>
+	<SubTexture name="Metarex ass instance 10024" x="4124" y="1359" width="825" height="1349" frameX="-10" frameY="0" frameWidth="835" frameHeight="1349"/>
+	<SubTexture name="Metarex ass instance 10025" x="4124" y="1359" width="825" height="1349" frameX="-10" frameY="0" frameWidth="835" frameHeight="1349"/>
+	<SubTexture name="Metarex ass instance 10026" x="4954" y="1359" width="825" height="1349" frameX="-10" frameY="0" frameWidth="835" frameHeight="1349"/>
+	<SubTexture name="Metarex ass instance 10027" x="5784" y="1359" width="825" height="1349" frameX="-10" frameY="0" frameWidth="835" frameHeight="1349"/>
+	<SubTexture name="Metarex ass instance 10028" x="6614" y="1359" width="825" height="1349" frameX="-10" frameY="0" frameWidth="835" frameHeight="1349"/>
+	<SubTexture name="Metarex ass instance 10029" x="6614" y="1359" width="825" height="1349" frameX="-10" frameY="0" frameWidth="835" frameHeight="1349"/>
+</TextureAtlas>

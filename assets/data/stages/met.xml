@@ -1,0 +1,17 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/met/" zoom=".7">
+	<sprite x="1144.85" y="146.3" sprite="monkey" name="monkey">
+		<anim x="0" loop="false" y="0" fps="26" anim="monkey" type="beat" name="idle"/>
+	</sprite>
+	<sprite sprite="floor" name="floor"/>
+	<sprite x="56.9" y="620.25" sprite="grounder" name="grounder">
+		<anim x="0" loop="false" y="0" fps="26" anim="grounder" type="beat" name="idle"/>
+	</sprite>
+	<sprite x="1910.15" y="1141.35" sprite="octopus" name="octopus">
+		<anim x="0" loop="false" y="0" fps="26" anim="octopus" type="beat" name="idle"/>
+	</sprite>
+	<gf x="904.8" y="580.5"/>
+	<dad x="502.6" y="619.1"/>
+	<bf x="1525.25" y="607.6"/>
+	<combo x="1271.5" y="981"/>
+</stage>
